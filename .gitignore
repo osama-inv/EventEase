@@ -1,0 +1,14 @@
+﻿# Visual Studio temporary files, build results, and
+# build directories
+[Bb]in/
+[Oo]bj/
+.vs/
+.vscode/
+*.user
+*.suo
+*.cache
+*.log
+*.tmp
+*.bak
+*.swp
+*.sln.docstates
