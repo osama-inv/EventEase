@@ -57,5 +57,5 @@ An online marketplace for catering services.
 - EventEase is licensed under the MIT License. Feel free to use, modify, and distribute the app as per the terms of the license.
 
 # Authors
-Belal EL_zaro - Frontend
-Osama Mahmoud - Backend
+- Belal EL_zaro - Frontend
+- Osama Mahmoud - Backend
