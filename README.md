@@ -1,7 +1,7 @@
 "# EventEase"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://github.com/osama-inv/EventEase.git git push -u origin main
 
-"# EventEase" 
-# Effortless Event Navigation: Your Smart Event Solution
+# EventEase
+## Effortless Event Navigation: Your Smart Event Solution
 
 > <img src="eventease.PNG" align="right"/>
 
