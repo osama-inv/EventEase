@@ -1,8 +1,12 @@
 "# EventEase"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://github.com/osama-inv/EventEase.git git push -u origin main
 "# EventEase" 
+> Effortless Event Navigation: Your Smart Event Solution
+> <img src="eventease.PNG" align="right"/>
 
 # introdution
-The core idea behind EventEase is to provide users with a centralized platform that streamlines every aspect of event planning. The app starts by guiding the user through a series of questions to understand the type of event, the number of guests, the desired location, and the overall budget. Based on this information, EventEase generates a customized timeline and to-do list, breaking down the planning process into manageable tasks.
+- Many people find planning an event to be a daunting task. The stress of coordinating schedules, managing vendors, and keeping track of countless details can be overwhelming. This is where EventEase comes in - a comprehensive event planning app designed to simplify the process and make event organization a breeze.
+
+- The core idea behind EventEase is to provide users with a centralized platform that streamlines every aspect of event planning. The app starts by guiding the user through a series of questions to understand the type of event, the number of guests, the desired location, and the overall budget. Based on this information, EventEase generates a customized timeline and to-do list, breaking down the planning process into manageable tasks.
 
 # Key Features
 ## Event Wizard:
